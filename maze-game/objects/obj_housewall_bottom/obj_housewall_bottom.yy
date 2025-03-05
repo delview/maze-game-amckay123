@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dad_right",
+  "%Name":"obj_housewall_bottom",
   "eventList":[],
   "managed":true,
-  "name":"obj_dad_right",
+  "name":"obj_housewall_bottom",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sp_dad_right",
-    "path":"sprites/sp_dad_right/sp_dad_right.yy",
+    "name":"spr_housewall_bottom",
+    "path":"sprites/spr_housewall_bottom/spr_housewall_bottom.yy",
   },
   "spriteMaskId":null,
   "visible":true,

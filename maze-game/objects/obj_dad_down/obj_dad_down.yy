@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dad_right",
+  "%Name":"obj_dad_down",
   "eventList":[],
   "managed":true,
-  "name":"obj_dad_right",
+  "name":"obj_dad_down",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sp_dad_right",
-    "path":"sprites/sp_dad_right/sp_dad_right.yy",
+    "name":"spr_dad_down",
+    "path":"sprites/spr_dad_down/spr_dad_down.yy",
   },
   "spriteMaskId":null,
   "visible":true,
