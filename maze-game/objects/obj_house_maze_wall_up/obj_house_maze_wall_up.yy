@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dad_down",
+  "%Name":"obj_house_maze_wall_up",
   "eventList":[],
   "managed":true,
-  "name":"obj_dad_down",
+  "name":"obj_house_maze_wall_up",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_dad_down",
-    "path":"sprites/spr_dad_down/spr_dad_down.yy",
+    "name":"spr_house_maze_wall_up",
+    "path":"sprites/spr_house_maze_wall_up/spr_house_maze_wall_up.yy",
   },
   "spriteMaskId":null,
   "visible":true,

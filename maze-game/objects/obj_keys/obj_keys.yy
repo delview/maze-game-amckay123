@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dad_up",
+  "%Name":"obj_keys",
   "eventList":[],
   "managed":true,
-  "name":"obj_dad_up",
+  "name":"obj_keys",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_dad_up",
-    "path":"sprites/spr_dad_up/spr_dad_up.yy",
+    "name":"spr_keys",
+    "path":"sprites/spr_keys/spr_keys.yy",
   },
   "spriteMaskId":null,
   "visible":true,
