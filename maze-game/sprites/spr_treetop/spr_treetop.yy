@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"spr_treetop",
   "bboxMode":0,
-  "bbox_bottom":40,
+  "bbox_bottom":42,
   "bbox_left":11,
   "bbox_right":48,
   "bbox_top":11,

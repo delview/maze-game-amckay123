@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_cave",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_dad","path":"objects/obj_dad/obj_dad.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_cave",
   "overriddenProperties":[],
