@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cave",
+  "%Name":"obj_lava",
   "eventList":[],
   "managed":true,
-  "name":"obj_cave",
+  "name":"obj_lava",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_cave",
-    "path":"sprites/spr_cave/spr_cave.yy",
+    "name":"spr_lava",
+    "path":"sprites/spr_lava/spr_lava.yy",
   },
   "spriteMaskId":null,
   "visible":true,

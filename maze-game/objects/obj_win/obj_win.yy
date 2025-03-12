@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cave",
+  "%Name":"obj_win",
   "eventList":[],
   "managed":true,
-  "name":"obj_cave",
+  "name":"obj_win",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_cave",
-    "path":"sprites/spr_cave/spr_cave.yy",
+    "name":"spr_win",
+    "path":"sprites/spr_win/spr_win.yy",
   },
   "spriteMaskId":null,
   "visible":true,

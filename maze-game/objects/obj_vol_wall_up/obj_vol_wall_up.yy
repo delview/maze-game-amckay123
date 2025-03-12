@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cave",
+  "%Name":"obj_vol_wall_up",
   "eventList":[],
   "managed":true,
-  "name":"obj_cave",
+  "name":"obj_vol_wall_up",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_cave",
-    "path":"sprites/spr_cave/spr_cave.yy",
+    "name":"spr_vol_maze_up",
+    "path":"sprites/spr_vol_maze_up/spr_vol_maze_up.yy",
   },
   "spriteMaskId":null,
   "visible":true,

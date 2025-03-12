@@ -10,3 +10,8 @@ got_key = 1;
 /// @DnDHash : 7D571641
 /// @DnDApplyTo : other
 with(other) instance_destroy();
+
+/// @DnDAction : YoYo Games.Rooms.Next_Room
+/// @DnDVersion : 1
+/// @DnDHash : 49709281
+room_goto_next();
