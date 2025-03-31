@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_house_maze_wall_up",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":43,
   "bbox_left":0,
   "bbox_right":63,
@@ -23,7 +23,7 @@
   ],
   "name":"spr_house_maze_wall_up",
   "nineSlice":null,
-  "origin":0,
+  "origin":9,
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -75,8 +75,8 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":31,
+    "yorigin":30,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
