@@ -41,7 +41,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"spr_monster3",
     "path":"sprites/spr_monster3/spr_monster3.yy",
